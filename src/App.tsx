@@ -3,15 +3,14 @@ import { Calendar, Clock, MapPin, Gift, MessageCircle } from 'lucide-react';
 function App() {
   const data = {
     hero: {
-      titulo: "365 Sorrisos",
       subtitulo: "Poderoso Chefinho em ação!",
-      nome_aniversariante: "NOME DA CRIANÇA",
+      nome_aniversariante: "Yan Caio",
       idade_label: "1 aninho"
     },
     evento: {
-      data: "DD/MM/AAAA",
-      dia_semana: "Domingo",
-      hora: "17:00"
+      data: "29/11/2025",
+      dia_semana: "Sabado",
+      hora: "17:30"
     },
     contato: {
       telefone_display: "85 92186-6156",
@@ -23,8 +22,8 @@ function App() {
     },
     sugestoes_presentes: [
       "Roupas tam. 2",
-      "Calçados nº 20",
-      "Amo Brinquedos",
+      "Calçados nº 22",
+      "Amo Brinquedos Educativos",
       "Produtos de higiene"
     ]
   };
