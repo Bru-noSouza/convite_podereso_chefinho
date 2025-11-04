@@ -10,7 +10,7 @@ function App() {
     evento: {
       data: "29/11/2025",
       dia_semana: "Sabado",
-      hora: "17:30"
+      hora: "17:00"
     },
     contato: {
       telefone_display: "85 92186-6156",
